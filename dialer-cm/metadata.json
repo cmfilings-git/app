@@ -1,0 +1,10 @@
+{
+  "name": "Remix CoreBIQ Dialer",
+  "description": "A responsive, Gemini-inspired light dialer application with smart T9 keypad, DTMF audio tones, call history, contacts, and in-call screen.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
